@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{index.html},
+==Qinghua Liu 
+
+~~~
+{}{img_left}{photo.jpeg}{alt text}{200}{246}
+\n \n
+I am Ph.D. student in the deparment of electrical engineering at Princeton University. I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. \n
+
+My current research interests focus on reinforcement learning theory.\n
+
+Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degree in Mathematics from Tsinghua University in 2018.
+~~~
+
+\n \n 
+
+== Recent works
+
+- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs].\n
+Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* (aphabetical order). \n
+NeurIPS, 2020 (*spotlight*).
+
+
+- [https://arxiv.org/abs/2010.01604 A Sharp Analysis of Model-based Reinforcement Learning with Self-Play]. \n
+*Qinghua Liu*, Tiancheng Yu, Yu Bai, Chi Jin.
+
+
+
+- [Provable Rich Observation Reinforcement Learning with Combinatorial Latent States].\n
+Dipendra Misra, *Qinghua Liu*, Chi Jin, John Langford.\n
+ICLR, 2020.
+
+- [https://arxiv.org/abs/2007.07481 Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization].\n
+Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
+NeurIPS, 2020.
+
+
+
+
+
+
