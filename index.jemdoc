@@ -14,13 +14,13 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 == Recent works
 
-- (*{{<font color="Red">New!</font>}}*) [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf *{{<font color="Teal">slides</font>}}*]\]
-\[[https://www.youtube.com/watch?v=-iz26FSdaKM *{{<font color="IndianRed">RL Theory Seminar</font>}}*]\] \n
+- [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf *{{<font color=2E86C1>slides</font>}}*]\]
+\[[https://www.youtube.com/watch?v=-iz26FSdaKM *{{<font color=EC7063>RL theory seminar</font>}}*]\] \n
 Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi (alphabetical order) \n
 ArXiv Preprint
 
-- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf *{{<font color="Teal">slides</font>}}*]\]
-\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars *{{<font color="IndianRed">RL Theory Seminar</font>}}*]\] \n
+- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf *{{<font color=2E86C1>slides</font>}}*]\]
+\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars *{{<font color=EC7063>RL theory seminar</font>}}*]\] \n
 Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* (alphabetical order) \n
 NeurIPS, 2020 (*spotlight*)
 
@@ -31,7 +31,7 @@ ArXiv Preprint
 
 
 
-- [Provable Rich Observation Reinforcement Learning with Combinatorial Latent States]\n
+- [https://openreview.net/pdf?id=hx1IXFHAw7R Provable Rich Observation Reinforcement Learning with Combinatorial Latent States]\n
 Dipendra Misra, *Qinghua Liu*, Chi Jin, John Langford\n
 ICLR, 2021
 
@@ -48,7 +48,6 @@ NeurIPS, 2020
 *Qinghua Liu*, Zhou Lu (alphabetical order) \n
 ArXiv Preprint
 
-\n
 
 
 
