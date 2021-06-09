@@ -4,20 +4,33 @@
 ~~~
 {}{img_left}{photo.jpeg}{alt text}{200}{246}
 \n \n
-I am a Ph.D. student in the Deparment of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. \n
+I am a Ph.D. candidate in the Deparment of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. \n
 
-My current research interests focus on reinforcement learning theory.\n
+My current research interests focus on reinforcement learning theory.
+I am particularly interested in RL problems related to function approximation, partial observability and game theory.\n
 
 Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degree in Mathematics from Tsinghua University in 2018.
 ~~~
  
 
-== Recent works
+
+== Selected Works 
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
 \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
 Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi (alphabetical order) \n
 ArXiv Preprint
+
+
+- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
+\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
+Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* (alphabetical order) \n
+NeurIPS, 2020 (*spotlight*)
+
+
+== Recent Papers
+
+
 
 
 
@@ -26,13 +39,6 @@ Chi Jin, *Qinghua Liu*, Tiancheng Yu (alphabetical order) \n
 ArXiv Preprint
 
 
-
-
-
-- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
-\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
-Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* (alphabetical order) \n
-NeurIPS, 2020 (*spotlight*)
 
 
 - [https://arxiv.org/abs/2010.01604 A Sharp Analysis of Model-based Reinforcement Learning with Self-Play] \n
@@ -52,11 +58,14 @@ NeurIPS, 2020
 
 
 
-== Technical notes 
+
+== Technical Notes 
 
 - [https://arxiv.org/abs/2012.13326 A Tight Lower Bound for Uniformly Stable Algorithms]\n
 *Qinghua Liu*, Zhou Lu (alphabetical order) \n
 ArXiv Preprint
+
+\n
 
 
 
