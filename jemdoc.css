@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	font-family: Futura;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -117,8 +117,10 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #0074D9;
+	font-family: Futura;
 	margin-top: 0.7em;
+	letter-spacing: 2.5px;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
 	line-height: 1.0;
