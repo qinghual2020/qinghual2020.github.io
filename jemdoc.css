@@ -116,8 +116,8 @@ strong {
 }
 
 
-h1, h2, h3 {
-	color: #0074D9;
+h2, h3 {
+	color: #A9473C;
 	font-family: Futura;
 	margin-top: 0.7em;
 	letter-spacing: 2.5px;
@@ -129,7 +129,19 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 165%;
+	color: #5E5655;
+	margin-top: 0.7em;
+	letter-spacing: 2.5px;
+	margin-bottom: 0.7em;
+	padding-bottom: 0.7em;
+	line-height: 1.2;
+	padding-top: 0.5em;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+h1 {
+	font-size: 170%;
+	font-family: "微軟正黑體";
 }
 
 h2 {
