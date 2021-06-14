@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Futura;
+	font-family: "Times New Roman";
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -118,7 +118,7 @@ strong {
 
 h2, h3 {
 	color: #A9473C;
-	font-family: Futura;
+	font-family: "Times New Roman";
 	margin-top: 0.7em;
 	letter-spacing: 2.5px;
 	margin-bottom: 0.3em;
@@ -129,7 +129,7 @@ h2, h3 {
 }
 
 h1 {
-	color: #5E5655;
+	color: #2C1F1E;
 	margin-top: 0.7em;
 	letter-spacing: 2.5px;
 	margin-bottom: 0.7em;
@@ -141,7 +141,7 @@ h1 {
 
 h1 {
 	font-size: 170%;
-	font-family: "微軟正黑體";
+	font-family: fantasy;
 }
 
 h2 {
