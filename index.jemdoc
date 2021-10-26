@@ -14,7 +14,14 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
  
 
 
-== Selected Works 
+== Recent Papers
+
+
+- [VLearning.pdf V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
+Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu (alphabetical order) \n
+ArXiv Preprint
+
+
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
 \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
@@ -22,18 +29,10 @@ Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi (alphabetical order) \n
 NeurIPS, 2021 ({{<font color=AB3D58>spotlight talk</font>}})
 
 
-- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
-\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
-Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* (alphabetical order) \n
-NeurIPS, 2020 ({{<font color=AB3D58>spotlight talk</font>}})
 
 
-== Recent Papers
 
 
-- [VLearning.pdf V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
-Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu (alphabetical order) \n
-ArXiv Preprint
 
 
 - [https://arxiv.org/abs/2106.03352 The Power of Exploiter: Provable Multi-Agent RL in Large State Spaces] \n
@@ -52,6 +51,11 @@ ICML, 2021
 - [https://openreview.net/pdf?id=hx1IXFHAw7R Provable Rich Observation Reinforcement Learning with Combinatorial Latent States]\n
 Dipendra Misra, *Qinghua Liu*, Chi Jin, John Langford\n
 ICLR, 2021
+
+- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
+\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
+Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* (alphabetical order) \n
+NeurIPS, 2020 ({{<font color=AB3D58>spotlight talk</font>}})
 
 - [https://arxiv.org/abs/2007.07481 Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization]\n
 Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
