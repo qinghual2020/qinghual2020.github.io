@@ -20,19 +20,13 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 \n
 - [https://arxiv.org/abs/2110.14555 V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
 (α-β order) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
-ArXiv Preprint
+arXiv preprint
 
 
 
-- [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
-\[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
+- [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
 NeurIPS, 2021 ({{<font color=AB3D58>spotlight talk</font>}})
-
-
-
-
-
 
 
 
@@ -54,7 +48,7 @@ Dipendra Misra, *Qinghua Liu*, Chi Jin, John Langford\n
 ICLR, 2021
 
 - [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
-\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=EC7063>RL Theory Seminar</font>}}]\] \n
+\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=AE8062>RL Theory Seminar</font>}}]\] \n
 (α-β order)  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
 NeurIPS, 2020 ({{<font color=AB3D58>spotlight talk</font>}})
 
@@ -70,7 +64,7 @@ NeurIPS, 2020; full version in IEEE Transactions on Signal Processing
 
 - [https://arxiv.org/abs/2012.13326 A Tight Lower Bound for Uniformly Stable Algorithms]\n
 (α-β order)  *Qinghua Liu*, Zhou Lu \n
-ArXiv Preprint
+arXiv preprint
 
 == Services 
 
