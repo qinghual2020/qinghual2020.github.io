@@ -23,6 +23,10 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 arXiv preprint
 
 
+- [MG-NoRegret.pdf Learning Markov Games with Adversarial Opponents: Efficient Algorithms and Fundamental Limits] \n
+ *Qinghua Liu*, Yuanhao Wang, Chi Jin \n
+arXiv preprint
+
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
