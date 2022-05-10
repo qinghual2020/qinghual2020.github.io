@@ -36,7 +36,7 @@ Awarded *{{<font color=AB3D58>Best Paper</font>}}*  at ICLR 2022 Workshop on Gam
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
-NeurIPS, 2021 (*{{<font color=AB3D58>spotlight talk</font>}}*)
+NeurIPS, 2021 (*{{<font color=AB3D58>Spotlight talk</font>}}*)
 
 
 
@@ -60,7 +60,7 @@ ICLR, 2021
 - [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs] \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
 \[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=AE8062>RL Theory Seminar</font>}}]\] \n
 (α-β order)  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
-NeurIPS, 2020 (*{{<font color=AB3D58>spotlight talk</font>}}*)
+NeurIPS, 2020 (*{{<font color=AB3D58>Spotlight talk</font>}}*)
 
 - [https://arxiv.org/abs/2007.07481 Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization]\n
 Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
@@ -78,7 +78,7 @@ arXiv preprint
 
 == Services 
 
-Reviewers for COLT, NeurIPS, ICML, JMLR, ICLR, ALT, IEEE-TSP, IEEE-TAC, etc.
+Reviewers for COLT, FOCS, NeurIPS, ICML, JMLR, ICLR, ALT, IEEE-TSP, IEEE-TAC, etc.
 
 \n
 
