@@ -26,7 +26,7 @@ COLT, 2022
 
 - [https://arxiv.org/abs/2203.06803 Learning Markov Games with Adversarial Opponents: Efficient Algorithms and Fundamental Limits] \n
  *Qinghua Liu*, Yuanhao Wang, Chi Jin \n
-ICML, 2022 (*{{<font color=AB3D58>Long talk</font>}}*)
+arXiv preprint
 
 - [https://arxiv.org/abs/2110.14555 V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
 (α-β order) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
@@ -43,7 +43,6 @@ NeurIPS, 2021 (*{{<font color=AB3D58>Spotlight talk</font>}}*)
 - [https://arxiv.org/abs/2106.03352 The Power of Exploiter: Provable Multi-Agent RL in Large State Spaces] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Tiancheng Yu \n
 Preliminary version presented at ICML 2021 Workshop on Reinforcement Learning Theory\n
-ICML, 2022
 
 
 
