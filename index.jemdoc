@@ -34,16 +34,19 @@ ICML, 2022 (*{{<font color=AB3D58>Long talk</font>}}*)
  arXiv preprint
 
 
+- [https://arxiv.org/abs/2106.03352 The Power of Exploiter: Provable Multi-Agent RL in Large State Spaces] \n
+(α-β order)  Chi Jin, *Qinghua Liu*, Tiancheng Yu \n
+Preliminary version presented at ICML 2021 Workshop on Reinforcement Learning Theory\n
+ICML, 2022
+
+
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
 NeurIPS, 2021 (*{{<font color=AB3D58>Spotlight talk</font>}}*)
 
 
 
-- [https://arxiv.org/abs/2106.03352 The Power of Exploiter: Provable Multi-Agent RL in Large State Spaces] \n
-(α-β order)  Chi Jin, *Qinghua Liu*, Tiancheng Yu \n
-Preliminary version presented at ICML 2021 Workshop on Reinforcement Learning Theory\n
-ICML, 2022
+
 
 
 
