@@ -24,7 +24,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 - [https://arxiv.org/abs/2206.01315 Sample-Efficient Reinforcement Learning of Partially Observable Markov Games] \n
  *Qinghua Liu*, Csaba Szepesvári, Chi Jin\n
-  arXiv preprint; preliminary version appeared in  2022 European Workshop on Reinforcement Learning ({{<font color=AB3D58>Oral presentation</font>}}) \n 
+  arXiv preprint; 2022 European Workshop on Reinforcement Learning ({{<font color=AB3D58>Oral presentation</font>}}) \n 
  
 
 - [https://arxiv.org/abs/2206.02640 Policy Optimization for Markov Games: Unified Framework and Faster Convergence] \n
@@ -56,7 +56,7 @@ arXiv preprint
 
 - [https://arxiv.org/abs/2106.03352 The Power of Exploiter: Provable Multi-Agent RL in Large State Spaces] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Tiancheng Yu \n
-ICML, 2022; preliminary version appeared in ICML 2021 Workshop on Reinforcement Learning Theory\n
+ICML, 2022; ICML 2021 Workshop on Reinforcement Learning Theory\n
  
 
 
@@ -88,7 +88,7 @@ NeurIPS, 2020 ({{<font color=AB3D58>Spotlight</font>}})
 
 - [https://arxiv.org/abs/2007.07481 Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization]\n
 Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
-NeurIPS, 2020; full version in IEEE Transactions on Signal Processing
+NeurIPS, 2020; longer version in IEEE Transactions on Signal Processing
 
 
 
