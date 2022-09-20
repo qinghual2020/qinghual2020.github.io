@@ -16,7 +16,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 == Recent Papers
 
-*    *(α-β order) denotes alphabetical authorship ordering \n
+*    *(α-β order) denotes alphabetical authorship ordering, and \* denotes equal contribution \n
 \n
 
 
@@ -29,7 +29,7 @@ European Workshop on Reinforcement Learning, 2022 ({{<font color=AB3D58>Oral pre
  
 
 - [https://arxiv.org/abs/2206.02640 Policy Optimization for Markov Games: Unified Framework and Faster Convergence] \n
-Runyu Zhang, *Qinghua Liu*, Huan Wang, Caiming Xiong, Na Li, Yu Bai\n
+Runyu Zhang\*, *Qinghua Liu\**, Huan Wang, Caiming Xiong, Na Li, Yu Bai\n
 Neural Information Processing Systems (NeurIPS), 2022
 
 
@@ -39,7 +39,7 @@ Conference on Learning Theory (COLT), 2022
 
 
 - [https://arxiv.org/abs/2203.06803 Learning Markov Games with Adversarial Opponents: Efficient Algorithms and Fundamental Limits] \n
- *Qinghua Liu*, Yuanhao Wang, Chi Jin \n
+ *Qinghua Liu\**, Yuanhao Wang\*, Chi Jin \n
 International Conference on Machine Learning (ICML), 2022 ({{<font color=AB3D58>Long presentation</font>}})
 
 
