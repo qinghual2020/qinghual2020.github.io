@@ -7,7 +7,11 @@
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. \n
 
 My current research interests focus on reinforcement learning theory.
-I am particularly interested in RL problems related to function approximation, partial observability and game theory.\n
+I am particularly interested in RL problems related to [https://arxiv.org/abs/2102.00815 function approximation], [https://arxiv.org/abs/2204.08967 partial observability] and [https://arxiv.org/abs/2110.14555 game theory].\n
+
+
+During summer 2022, I was a research scientist intern at DeepMind, London, working with 
+[https://sites.ualberta.ca/~szepesva/ Csaba Szepesvári] and [https://scholar.google.com/citations?user=NBl5GvcAAAAJ&hl=en Gellért Weisz]
 
 Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degree in Mathematics from Tsinghua University in 2018.
 ~~~
