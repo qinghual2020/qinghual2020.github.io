@@ -24,12 +24,17 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 \n
 
 
+- [omle.pdf Optimistic MLE—A Generic Model-based Algorithm for Partially Observable Sequential Decision Making]\n
+ *Qinghua Liu*, Praneeth Netrapalli, Csaba Szepesvári, Chi Jin\n
+ arXiv preprint
+
+
 
 
 - [https://arxiv.org/abs/2206.01315 Sample-Efficient Reinforcement Learning of Partially Observable Markov Games] \n
  *Qinghua Liu*, Csaba Szepesvári, Chi Jin\n
  Neural Information Processing Systems (NeurIPS), 2022 \n
-European Workshop on Reinforcement Learning, 2022 ({{<font color=AB3D58>Oral presentation</font>}}) \n 
+European Workshop on Reinforcement Learning, 2022 ({{<font color=AB3D58>Oral presentation</font>}}) 
  
 
 - [https://arxiv.org/abs/2206.02640 Policy Optimization for Markov Games: Unified Framework and Faster Convergence] \n
