@@ -9,7 +9,7 @@ table#tlayout {
 body {
 	background: white;
 	font-size: 110%;
-	font-family: "Times New Roman";
+	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -23,7 +23,7 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    text-align:left;
+    text-align: justify;
     vertical-align: top;
 }
 
@@ -34,11 +34,11 @@ body {
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 1.0em;
-	padding-right: 1.0em;
+	padding-left: 24.0em;
+	padding-right: 24.0em;
     border: none;
     background: white;
-    text-align: left;
+    text-align: justify;
     vertical-align: top;
 }
 
@@ -118,8 +118,8 @@ strong {
 
 
 h2, h3 {
-	color: #A9473C;
-	font-family: "Times New Roman";
+	color: #000000;
+	font-family: Georgia, serif;
 	margin-top: 0.7em;
 	letter-spacing: 2.5px;
 	margin-bottom: 0.3em;
@@ -142,7 +142,7 @@ h1 {
 
 h1 {
 	font-size: 170%;
-	font-family: fantasy;
+	font-family: "Times New Roman";
 }
 
 h2 {
