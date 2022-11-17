@@ -7,11 +7,11 @@ table#tlayout {
 }
 
 body {
-	background: white;
+	background: rgb(248, 250, 248);
 	font-size: 110%;
-	font-family: Georgia, serif;
+	font-family:  serif;
 	padding-bottom: 8px;
-	max-width: 1000px;
+	max-width: 860px;
 	margin: auto;
 }
 
