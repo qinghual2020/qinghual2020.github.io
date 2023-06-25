@@ -19,7 +19,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 == Recent Papers
 
-*    *(α-β order) denotes alphabetical authorship ordering, and (\*) denotes equal contribution \n
+*    *(α-β order) denotes alphabetical authorship ordering, and (*,+) denote equal contribution \n
 
 
 \n
@@ -66,7 +66,7 @@ Neural Information Processing Systems (NeurIPS), 2020 ({{<font color=AB3D58>Spot
 
 
 - [https://arxiv.org/abs/2302.06606 Breaking the Curse of Multiagency: Provably Efficient Decentralized MARL with Function Approximation] \n
-  Yuanhao Wang\*, *Qinghua Liu\**, Yu Bai, Chi Jin \n
+  Yuanhao Wang\*, *Qinghua Liu\**, Yu Bai\+, Chi Jin\+ \n
 Conference on Learning Theory (COLT), 2023
 
 - [https://arxiv.org/abs/2206.02640 Policy Optimization for Markov Games: Unified Framework and Faster Convergence] \n
@@ -133,6 +133,13 @@ International Conference on Learning Representations (ICLR), 2021
 Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
 Neural Information Processing Systems (NeurIPS), 2020\n 
 Longer version in IEEE Transactions on Signal Processing
+
+
+
+- [https://arxiv.org/abs/2306.13053v1 Context-lumpable Stochastic Bandits]\n
+Chung-Wei Lee, Qinghua Liu, Yasin Abbasi-Yadkori, Chi Jin, Tor Lattimore, Csaba Szepesvári \n
+arXiv preprint
+
 
 
 - [https://arxiv.org/abs/2012.13326 A Tight Lower Bound for Uniformly Stable Algorithms]\n
