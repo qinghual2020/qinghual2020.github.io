@@ -6,7 +6,7 @@
 
 
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. 
-My current research interests focus on reinforcement learning theory.
+My current research interests focus on reinforcement learning.
 I am particularly interested in RL problems related to [https://arxiv.org/abs/2102.00815 function approximation], [https://arxiv.org/abs/2204.08967 partial observability] and [https://arxiv.org/abs/2110.14555 game theory].\n 
 
 During summer 2022, I was a research scientist intern at DeepMind, London, working with 
@@ -103,7 +103,7 @@ International Conference on Machine Learning (ICML), 2021
 \n
 
 
-*RL with Function Approximation* \n
+*Single-Agent RL* \n
 
 
 - [https://arxiv.org/abs/2306.14111 Is RLHF More Difficult than Standard RL?] \n
