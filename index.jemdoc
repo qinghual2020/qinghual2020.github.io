@@ -13,7 +13,11 @@ During summer 2022, I was a research scientist intern at DeepMind, London, worki
  Csaba Szepesvári and Gellért Weisz.
 Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degree in Mathematics from Tsinghua University in 2018.
 
+ \[[https://scholar.google.com/citations?user=CotFJJsAAAAJ&hl=en Google Scholar]\]
+
+
  ~~~
+
 
 
 
@@ -40,7 +44,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 - [https://arxiv.org/abs/2206.01315 Sample-Efficient Reinforcement Learning of Partially Observable Markov Games] \n
  *Qinghua Liu*, Csaba Szepesvári, Chi Jin\n
  Neural Information Processing Systems (NeurIPS), 2022 \n
-European Workshop on Reinforcement Learning, 2022 ({{<font color=AB3D58>Oral presentation</font>}}) 
+European Workshop on Reinforcement Learning, 2022 (*{{<font color=AB3D58>Oral</font>}}*) 
  
 
 
@@ -54,7 +58,7 @@ Conference on Learning Theory (COLT), 2022
 
 - [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs]  \n
 (α-β order)  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
-Neural Information Processing Systems (NeurIPS), 2020 ({{<font color=AB3D58>Spotlight</font>}}) \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
+Neural Information Processing Systems (NeurIPS), 2020 (*{{<font color=AB3D58>Spotlight</font>}}*) \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
 \[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=AE8062>RL Theory Seminar</font>}}]\]
 
 
@@ -75,7 +79,7 @@ Neural Information Processing Systems (NeurIPS), 2022
 
 - [https://arxiv.org/abs/2203.06803 Learning Markov Games with Adversarial Opponents: Efficient Algorithms and Fundamental Limits] \n
  *Qinghua Liu\**, Yuanhao Wang\*, Chi Jin \n
-International Conference on Machine Learning (ICML), 2022 ({{<font color=AB3D58>Long presentation</font>}})
+International Conference on Machine Learning (ICML), 2022 (*{{<font color=AB3D58>Long oral</font>}}*)
 
 
 - [https://arxiv.org/abs/2207.08894 A Deep Reinforcement Learning Approach for Finding Non-Exploitable Strategies in Two-Player Atari Games] \n
@@ -84,7 +88,7 @@ arXiv preprint
 
 - [https://arxiv.org/abs/2110.14555 V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
 (α-β order) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
-Awarded {{<font color=AB3D58>Best Paper</font>}}  in ICLR  Workshop on Gamification and Multiagent Solutions, 2022 \n  
+\ *{{<font color=AB3D58>Best Paper</font>}}*  in ICLR  Workshop on Gamification and Multiagent Solutions, 2022 \n  
  Mathematics of Operations Research \n
 
 
@@ -120,7 +124,7 @@ arXiv preprint
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \n
 (α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
-Neural Information Processing Systems (NeurIPS), 2021 ({{<font color=AB3D58>Spotlight</font>}}) \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] 
+Neural Information Processing Systems (NeurIPS), 2021 (*{{<font color=AB3D58>Spotlight</font>}}*) \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] 
 
 
 
@@ -142,7 +146,7 @@ Longer version in IEEE Transactions on Signal Processing
 
 
 - [https://arxiv.org/abs/2306.13053v1 Context-lumpable Stochastic Bandits]\n
-Chung-Wei Lee, Qinghua Liu, Yasin Abbasi-Yadkori, Chi Jin, Tor Lattimore, Csaba Szepesvári \n
+Chung-Wei Lee, *Qinghua Liu*, Yasin Abbasi-Yadkori, Chi Jin, Tor Lattimore, Csaba Szepesvári \n
 arXiv preprint
 
 
