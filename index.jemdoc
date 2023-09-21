@@ -112,12 +112,12 @@ International Conference on Machine Learning (ICML), 2021
 
 - [https://arxiv.org/abs/2306.14111 Is RLHF More Difficult than Standard RL?] \n
 Yuanhao Wang, *Qinghua Liu*, Chi Jin\n
-arXiv preprint
+Neural Information Processing Systems (NeurIPS), 2023
 
 
 - [https://arxiv.org/abs/2305.11032 Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework for Online RL] \n
 *Qinghua Liu*, Gellért Weisz, András György, Chi Jin, Csaba Szepesvári\n
-arXiv preprint
+Neural Information Processing Systems (NeurIPS), 2023 (*{{<font color=AB3D58>Spotlight</font>}}*)
 
 
 
@@ -147,7 +147,7 @@ Longer version in IEEE Transactions on Signal Processing
 
 - [https://arxiv.org/abs/2306.13053v1 Context-lumpable Stochastic Bandits]\n
 Chung-Wei Lee, *Qinghua Liu*, Yasin Abbasi-Yadkori, Chi Jin, Tor Lattimore, Csaba Szepesvári \n
-arXiv preprint
+Neural Information Processing Systems (NeurIPS), 2023
 
 
 
