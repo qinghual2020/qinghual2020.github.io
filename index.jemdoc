@@ -21,7 +21,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 
 
-== Recent Papers
+== Publications
 
 *    *(α-β order) denotes alphabetical authorship ordering, and (*,+) denote equal contribution \n
 
@@ -82,14 +82,16 @@ Neural Information Processing Systems (NeurIPS), 2022
 International Conference on Machine Learning (ICML), 2022 (*{{<font color=AB3D58>Long oral</font>}}*)
 
 
-- [https://arxiv.org/abs/2207.08894 A Deep Reinforcement Learning Approach for Finding Non-Exploitable Strategies in Two-Player Atari Games] \n
-Zihan Ding, Dijia Su, *Qinghua Liu*, Chi Jin\n
-arXiv preprint
 
 - [https://arxiv.org/abs/2110.14555 V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
 (α-β order) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
 \ *{{<font color=AB3D58>Best Paper</font>}}*  in ICLR  Workshop on Gamification and Multiagent Solutions, 2022 \n  
  Mathematics of Operations Research \n
+
+ - [https://arxiv.org/abs/2207.08894 A Deep Reinforcement Learning Approach for Finding Non-Exploitable Strategies in Two-Player Atari Games] \n
+Zihan Ding, Dijia Su, *Qinghua Liu*, Chi Jin\n
+arXiv preprint
+
 
 
 
@@ -138,17 +140,14 @@ International Conference on Learning Representations (ICLR), 2021
 
 *Other Works* \n
 
-- [https://arxiv.org/abs/2007.07481 Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization]\n
-Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
-Neural Information Processing Systems (NeurIPS), 2020\n 
-Longer version in IEEE Transactions on Signal Processing
-
-
-
 - [https://arxiv.org/abs/2306.13053v1 Context-lumpable Stochastic Bandits]\n
 Chung-Wei Lee, *Qinghua Liu*, Yasin Abbasi-Yadkori, Chi Jin, Tor Lattimore, Csaba Szepesvári \n
 Neural Information Processing Systems (NeurIPS), 2023
 
+- [https://arxiv.org/abs/2007.07481 Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization]\n
+Jianyu Wang, *Qinghua Liu*, Hao Liang, Gauri Joshi, H. Vincent Poor\n
+Neural Information Processing Systems (NeurIPS), 2020\n 
+Longer version in IEEE Transactions on Signal Processing
 
 
 - [https://arxiv.org/abs/2012.13326 A Tight Lower Bound for Uniformly Stable Algorithms]\n
