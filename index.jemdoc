@@ -5,9 +5,13 @@
 {}{img_left}{photo.jpeg}{alt text}{200}{246}
 
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University. I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. 
-My current research interests focus on reinforcement learning.
-I am particularly interested in RL problems related to [https://arxiv.org/abs/2102.00815 function approximation], [https://arxiv.org/abs/2204.08967 partial observability] and [https://arxiv.org/abs/2110.14555 game theory].\n 
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University. 
+I am fortunate to be advised by [https://sites.google.com/view/cjin/home Chi Jin]. 
+I develop learning-based approaches for sequential decision making.
+In particular, my PhD research has focused on reinforcement learning (RL), spanning over various areas 
+including [https://arxiv.org/abs/2110.14555 multi-agent RL], [https://arxiv.org/abs/2204.08967 partially observable RL], 
+ and [https://arxiv.org/abs/2102.00815  RL with large state spaces].
+
 
 During summer 2022, I was a research scientist intern at DeepMind, London, working with 
  Csaba Szepesvári and Gellért Weisz.
@@ -31,7 +35,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 
 
-*Partially Observable RL* \n
+*Partially Observable Reinforcement Learning* \n
 
 
 - [https://arxiv.org/abs/2209.14997 Optimistic MLE -- A Generic Model-based Algorithm for Partially Observable Sequential Decision Making]\n
@@ -65,7 +69,7 @@ Neural Information Processing Systems (NeurIPS), 2020 (*{{<font color=AB3D58>Spo
 \n
 
 
-*Multi-Agent RL* \n
+*Multi-Agent Reinforcement Learning* \n
 
 
 
@@ -109,7 +113,7 @@ International Conference on Machine Learning (ICML), 2021
 \n
 
 
-*Single-Agent RL* \n
+*Reinforcement Learning with Large State Spaces* \n
 
 
 - [https://arxiv.org/abs/2306.14111 Is RLHF More Difficult than Standard RL?] \n
