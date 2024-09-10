@@ -6,18 +6,20 @@
 
 
 I am a postdoctoral researcher at Microsoft Research in New York City. 
-I study machine learning for decision-making.
+I study machine learning for sequential decision-making.
 
 
 I am a Ph.D. candidate at Princeton University, advised by [https://sites.google.com/view/cjin/home Chi Jin]. 
-My PhD research focused on multi-agent RL ([https://arxiv.org/abs/2110.14555 Stochastic Game]), partially observable RL ([https://arxiv.org/abs/2204.08967 POMDP], 
-[https://arxiv.org/abs/2209.14997 PSR]), 
+My PhD research focused on partially observable RL ([https://arxiv.org/abs/2204.08967 POMDP], 
+[https://arxiv.org/abs/2209.14997 PSR]), multi-agent RL ([https://arxiv.org/abs/2110.14555 Stochastic Game]), 
  and   RL with large state spaces ([https://arxiv.org/abs/2102.00815 Function Approximation]).
 
 
 During summer 2022, I interned at DeepMind, working with 
  Csaba Szepesvári and Gellért Weisz.
 Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degree in Mathematics from Tsinghua University.
+
+I will be joining WashU CS as an assistant professor in the fall of 2025.
 
  \[[https://scholar.google.com/citations?user=CotFJJsAAAAJ&hl=en Google Scholar]\]
 
