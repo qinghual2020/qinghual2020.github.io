@@ -11,7 +11,7 @@ I study machine learning for sequential decision-making.
 
 I am a Ph.D. candidate at Princeton University, advised by [https://sites.google.com/view/cjin/home Chi Jin]. 
 My PhD research focused on partially observable RL ([https://arxiv.org/abs/2204.08967 POMDP], 
-[https://arxiv.org/abs/2209.14997 PSR]), multi-agent RL ([https://arxiv.org/abs/2110.14555 Stochastic Game]), 
+[https://arxiv.org/abs/2209.14997 PSR], [PORL_Survey.pdf Survey]), multi-agent RL ([https://arxiv.org/abs/2110.14555 Stochastic Game]), 
  and   RL with large state spaces ([https://arxiv.org/abs/2102.00815 Function Approximation]).
 
 
