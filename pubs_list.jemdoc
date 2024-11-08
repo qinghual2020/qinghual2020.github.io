@@ -11,6 +11,60 @@
 *    *(α-β order) denotes alphabetical authorship ordering, and (*,+) denote equal contribution \n
 
 
+
+\n
+
+*Recent Works* \n
+
+- [PORL_Survey.pdf  Partially Observable RL: Benign Structures and Simple Generic Algorithms (Survey Article)]\n
+  *Qinghua Liu*, Chi Jin\n
+  Invited Submission to Statistical Science (STS), 2024
+
+- [https://arxiv.org/abs/2410.23506 Learning to Achieve Goals with Belief State Transformers]\n
+Edward S. Hu, Kwangjun Ahn, *Qinghua Liu*, Haoran Xu, Manan Tomar, Ada Langford,\n
+Dinesh Jayaraman, Alex Lamb, John Langford\n
+arXiv preprint
+
+
+\n
+
+
+*Partially Observable Reinforcement Learning* \n
+
+
+
+- [https://arxiv.org/abs/2209.14997 Optimistic MLE -- A Generic Model-based Algorithm for Partially Observable Sequential Decision Making]\n
+ *Qinghua Liu*, Praneeth Netrapalli, Csaba Szepesvári, Chi Jin\n
+ Symposium on Theory of Computing (STOC), 2023
+
+
+
+
+- [https://arxiv.org/abs/2206.01315 Sample-Efficient Reinforcement Learning of Partially Observable Markov Games] \n
+ *Qinghua Liu*, Csaba Szepesvári, Chi Jin\n
+ Neural Information Processing Systems (NeurIPS), 2022 \n
+European Workshop on Reinforcement Learning, 2022 (*{{<font color=AB3D58>Oral</font>}}*) 
+ 
+
+
+
+
+- [https://arxiv.org/abs/2204.08967 When Is Partially Observable Reinforcement Learning Not Scary?] \n
+ *Qinghua Liu*, Alan Chung, Csaba Szepesvári, Chi Jin\n
+Conference on Learning Theory (COLT), 2022
+
+
+
+- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs]  \n
+(α-β order)  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
+Neural Information Processing Systems (NeurIPS), 2020 (*{{<font color=AB3D58>Spotlight</font>}}*) \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
+\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=AE8062>RL Theory Seminar</font>}}]\]
+
+
+
+
+
+
 \n
 
 
@@ -60,42 +114,6 @@ International Conference on Machine Learning (ICML), 2021
 
 
 
-\n
-
-
-*Partially Observable Reinforcement Learning* \n
-
-- [PORL_Survey.pdf  Partially Observable RL: Benign Structures and Simple Generic Algorithms (Survey Article)]\n
-  *Qinghua Liu*, Chi Jin\n
-  Invited Submission to Statistical Science (STS), 2024
-
-
-- [https://arxiv.org/abs/2209.14997 Optimistic MLE -- A Generic Model-based Algorithm for Partially Observable Sequential Decision Making]\n
- *Qinghua Liu*, Praneeth Netrapalli, Csaba Szepesvári, Chi Jin\n
- Symposium on Theory of Computing (STOC), 2023
-
-
-
-
-- [https://arxiv.org/abs/2206.01315 Sample-Efficient Reinforcement Learning of Partially Observable Markov Games] \n
- *Qinghua Liu*, Csaba Szepesvári, Chi Jin\n
- Neural Information Processing Systems (NeurIPS), 2022 \n
-European Workshop on Reinforcement Learning, 2022 (*{{<font color=AB3D58>Oral</font>}}*) 
- 
-
-
-
-
-- [https://arxiv.org/abs/2204.08967 When Is Partially Observable Reinforcement Learning Not Scary?] \n
- *Qinghua Liu*, Alan Chung, Csaba Szepesvári, Chi Jin\n
-Conference on Learning Theory (COLT), 2022
-
-
-
-- [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs]  \n
-(α-β order)  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
-Neural Information Processing Systems (NeurIPS), 2020 (*{{<font color=AB3D58>Spotlight</font>}}*) \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
-\[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=AE8062>RL Theory Seminar</font>}}]\]
 
 
 \n
