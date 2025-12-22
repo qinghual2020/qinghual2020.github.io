@@ -5,7 +5,7 @@
 {}{img_left}{photo-24 copy.JPG}{alt text}{240}{267}
 
 
-I am a researcher at OpenAI. I work on post-training.
+I study training models at OpenAI.
 
 
 
@@ -32,17 +32,22 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 
 
-
-== Selected Works ~~([pubs_list.html Show All])
-
-*    *(α-β order) denotes alphabetical authorship ordering \n
+== Models
 
 \n 
 
--  [https://chatgpt.com/ GPT-5 Multi-Personality] \[[https://openai.com/index/introducing-gpt-5/ blog]\] \[[https://x.com/OpenAI/status/1953534071772262511 twitter]\]
+I've trained GPT-5–series models (e.g. GPT-5, GPT-5.1) for multi-personality / personalization. Highlighted in 
+- [https://openai.com/index/introducing-gpt-5/ Introducing multi-personality in GPT 5]
+- [https://openai.com/index/gpt-5-1/ Making ChatGPT uniquely yours in GPT 5.1]
+- [https://fidjisimo.substack.com/p/moving-beyond-one-size-fits-all Moving beyond one-size-fits-all by Fidji]
+
+
+
 \n
-OpenAI\n
-Most frontiers models can ace tough reasoning problems but still miss the subtleties of human emotion. This is our initial step toward AI that gets the feels, not just the correctness.
+== Selected Papers ~~([pubs_list.html Show All])
+
+*    *(α-β order) denotes alphabetical authorship ordering \n
+
 
 \n
 
