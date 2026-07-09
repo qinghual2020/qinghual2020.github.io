@@ -8,12 +8,6 @@
 
 == Publications
 
-*    *(α-β order) denotes alphabetical authorship ordering, and (*,+) denote equal contribution \n
-
-
-
-\n
-
 *Recent Works* \n
 
 
@@ -27,9 +21,7 @@ Dinesh Jayaraman, Alex Lamb, John Langford\n
 International Conference on Learning Representations (ICLR), 2025
 
 
-- [PORL_Survey.pdf  Partially Observable RL: Benign Structures and Simple Generic Algorithms (Survey Article)]\n
-  *Qinghua Liu*, Chi Jin\n
-  Invited Submission to Statistical Science (STS)
+
 
 
 \n
@@ -37,6 +29,9 @@ International Conference on Learning Representations (ICLR), 2025
 
 *Partially Observable Reinforcement Learning* \n
 
+- [https://projecteuclid.org/journals/statistical-science/volume-40/issue-4/Partially-Observable-RL-Benign-Structures-and-Simple-Generic-Algorithms/10.1214/25-STS1012.short  Partially Observable RL: Benign Structures and Simple Generic Algorithms (Survey Article)]\n
+  *Qinghua Liu*, Chi Jin\n
+  Invited to Statistical Science (STS), 2025
 
 
 - [https://arxiv.org/abs/2209.14997 Optimistic MLE -- A Generic Model-based Algorithm for Partially Observable Sequential Decision Making]\n
@@ -62,7 +57,7 @@ Conference on Learning Theory (COLT), 2022
 
 
 - [https://arxiv.org/abs/2006.12484 Sample-Efficient Reinforcement Learning of Undercomplete POMDPs]  \n
-(α-β order)  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
+({{<span class="author-note">α-β order</span>}})  Chi Jin, Sham M. Kakade, Akshay Krishnamurthy, *Qinghua Liu* \n
 Neural Information Processing Systems (NeurIPS), 2020 (*{{<font color=AB3D58>Spotlight</font>}}*) \[[pomdps_slides.pdf {{<font color=2E86C1>Slides</font>}}]\]
 \[[https://www.youtube.com/watch?v=lGI1MrSXHfs&t=9s&ab_channel=RLtheoryseminars {{<font color=AE8062>RL Theory Seminar</font>}}]\]
 
@@ -98,7 +93,7 @@ International Conference on Machine Learning (ICML), 2022 (*{{<font color=AB3D58
 
 
 - [https://arxiv.org/abs/2110.14555 V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
-(α-β order) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
+({{<span class="author-note">α-β order</span>}}) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
 \ *{{<font color=AB3D58>Best Paper</font>}}*  in ICLR  Workshop on Gamification and Multiagent Solutions, 2022 \n  
  Mathematics of Operations Research, 2023 \n
 
@@ -110,7 +105,7 @@ arXiv preprint
 
 
 - [https://arxiv.org/abs/2106.03352 The Power of Exploiter: Provable Multi-Agent RL in Large State Spaces] \n
-(α-β order)  Chi Jin, *Qinghua Liu*, Tiancheng Yu \n
+({{<span class="author-note">α-β order</span>}})  Chi Jin, *Qinghua Liu*, Tiancheng Yu \n
 International Conference on Machine Learning (ICML), 2022 \n
  ICML Workshop on Reinforcement Learning Theory, 2021 \n
  
@@ -141,7 +136,7 @@ Neural Information Processing Systems (NeurIPS), 2023 (*{{<font color=AB3D58>Spo
 
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \n
-(α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
+({{<span class="author-note">α-β order</span>}})  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
 Neural Information Processing Systems (NeurIPS), 2021 (*{{<font color=AB3D58>Spotlight</font>}}*) \[[bedim_slides.pdf {{<font color=2E86C1>Slides</font>}}]\] \[[https://www.youtube.com/watch?v=-iz26FSdaKM {{<font color=AE8062>RL Theory Seminar</font>}}]\] 
 
 
@@ -175,10 +170,13 @@ Longer version in IEEE Transactions on Signal Processing
 
 
 - [https://arxiv.org/abs/2012.13326 A Tight Lower Bound for Uniformly Stable Algorithms]\n
-(α-β order)  *Qinghua Liu*, Zhou Lu \n
+({{<span class="author-note">α-β order</span>}})  *Qinghua Liu*, Zhou Lu \n
 arXiv preprint
 
 \n
+
+\*    {{<span class="author-note">(α-β order) denotes alphabetical authorship ordering, and (*,+) denote equal contribution</span>}} \n
+
 
 
 
@@ -186,11 +184,5 @@ arXiv preprint
 #== Services 
 
 #Reviewers for COLT, NeurIPS, ICML, JMLR, ICLR, ALT, IEEE-TSP, IEEE-TAC, etc.
-
-
-
-
-
-
 
 

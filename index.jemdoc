@@ -2,30 +2,32 @@
 ==Qinghua Liu
 
 ~~~
-{}{img_left}{photo-24 copy.JPG}{alt text}{240}{267}
+{}{img_left}{photo-24 copy.JPG}{alt text}{228}{254}
 
 
-I train models at OpenAI, and they train me right back.
+
+I am a researcher in (mid, post]-training at OpenAI.
+
+I train models on the critical path to shipping  Codex / ChatGPT, including [https://openai.com/index/introducing-gpt-5-5/ GPT-5.5], [https://openai.com/index/previewing-gpt-5-6-sol/ GPT-5.6-sol], and the next generation of models. I have also indirectly contributed to specialized models such as [https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/ GPT‑5.5‑Cyber]  and [https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/ GPT‑Rosalind]. Prior to that, I worked on model personalities which was integrated into [https://openai.com/index/introducing-gpt-5/ GPT-5] and [https://openai.com/index/gpt-5-1/ GPT-5.1]. 
+
 
 
 
 I received my Ph.D. from Princeton, advised by [https://sites.google.com/view/cjin/home Chi Jin]. 
-My PhD research focused on fundamental theories in reinforcement learning (RL), including partially observable RL ([https://arxiv.org/abs/2204.08967 POMDP], 
+My PhD focused on RL theory, including partially observable RL ([https://arxiv.org/abs/2204.08967 POMDP], 
 [https://arxiv.org/abs/2209.14997 PSR], [PORL_Survey.pdf Survey]), multi-agent RL ([https://arxiv.org/abs/2110.14555 Stochastic Game]), 
- and   RL with large state spaces ([https://arxiv.org/abs/2102.00815 Function Approximation]).
- After that, I spent a wonderful year as a postdoctoral researcher at [https://www.microsoft.com/en-us/research/theme/machine-learning-ai-nyc/people/ Microsoft Research NYC], where I explored language model research.
+ and   RL with large state spaces ([https://arxiv.org/abs/2102.00815 Function Approximation]). During my PhD, I've interned at DeepMind London with [https://sites.ualberta.ca/~szepesva/ Csaba Szepesvári]. After my PhD, I spent a wonderful year as a postdoctoral researcher at [https://www.microsoft.com/en-us/research/theme/machine-learning-ai-nyc/people/ Microsoft Research NYC].
 
 
 
+Even earlier, I received a  B.E. in Electrical Engineering and a B.S. in Mathematics from Tsinghua University.
 
 
-During summer 2022, I interned at DeepMind, working with 
- [https://sites.ualberta.ca/~szepesva/ Csaba Szepesvári] and Gellért Weisz.
-Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degree in Mathematics from Tsinghua University.
+
 
 #I will be joining WashU CS as an assistant professor in the fall of 2025.
 
- \[[https://scholar.google.com/citations?user=CotFJJsAAAAJ&hl=en Google Scholar]\]
+[https://scholar.google.com/citations?user=CotFJJsAAAAJ&hl=en Google Scholar], [https://x.com/Qinghua_Liu_ Twitter]
 
 
  ~~~
@@ -43,13 +45,11 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 
 
 
-\n
+
 == Selected Papers ~~([pubs_list.html Show All])
 
-*    *(α-β order) denotes alphabetical authorship ordering \n
-
-
 \n
+
 
 - [https://arxiv.org/abs/2209.14997 Optimistic MLE -- A Generic Model-based Algorithm for Partially Observable Sequential Decision Making]\n
  *Qinghua Liu*, Praneeth Netrapalli, Csaba Szepesvári, Chi Jin\n
@@ -58,7 +58,7 @@ Previously, I received a  B.E. degree in Electrical Engineering and a B.S. degre
 \n
 
 - [https://arxiv.org/abs/2110.14555 V-Learning -- A Simple, Efficient, Decentralized Algorithm for Multiagent RL] \n
-(α-β order) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
+({{<span class="author-note">α-β order</span>}}) Chi Jin, *Qinghua Liu*, Yuanhao Wang, Tiancheng Yu \n
  Mathematics of Operations Research (MOR), 2023 \n
  \ *Best Paper*  in ICLR 2022 ``Gamification and Multiagent Solutions'' Workshop \n  
  #\ *{{<font color=AB3D58>Best Paper</font>}}*  in ICLR  Workshop on Gamification and Multiagent Solutions, 2022 \n  
@@ -73,14 +73,10 @@ Conference on Learning Theory (COLT), 2022
 \n
 
 - [https://arxiv.org/abs/2102.00815 Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms] \n
-(α-β order)  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
+({{<span class="author-note">α-β order</span>}})  Chi Jin, *Qinghua Liu*, Sobhan Miryoosefi \n
 Neural Information Processing Systems (NeurIPS), 2021 (*Spotlight*) 
 #Neural Information Processing Systems (NeurIPS), 2021 (*{{<font color=AB3D58>Spotlight</font>}}*) 
 
 \n
 
-\n
-
-
-
-
+\*    {{<span class="author-note">(α-β order) denotes alphabetical authorship ordering</span>}} \n
